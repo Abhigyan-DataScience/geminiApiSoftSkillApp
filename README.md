@@ -1,6 +1,6 @@
 # LangApp 🗣️ - Boost Your Soft Skills with AI
 
-![Uploading ChatGPT Image Apr 11, 2025, 08_06_02 PM.png…]()
+![Uploading alllApps.png…]()
 
 ## 📱 About LangApp
 
