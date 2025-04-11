@@ -42,12 +42,12 @@ LangApp is a cutting-edge Flutter application designed to enhance your soft skil
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Abhigyan-DataScience/geminiApiSoftSkillApp
+git clone https://github.com/Abhigyan-DataScience/geminiApiSoftSkillApp.git
 ```
 
 2. Navigate to project directory
 ```bash
-cd soft_app
+cd geminiApiSoftSkillApp
 ```
 
 3. Install dependencies
