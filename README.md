@@ -42,7 +42,7 @@ LangApp is a cutting-edge Flutter application designed to enhance your soft skil
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/soft_app.git
+git clone https://github.com/Abhigyan-DataScience/geminiApiSoftSkillApp
 ```
 
 2. Navigate to project directory
