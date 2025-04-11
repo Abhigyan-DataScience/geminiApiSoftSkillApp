@@ -1,10 +1,10 @@
-# SpeakUp 🗣️ - Boost Your Soft Skills with AI
+# LangApp 🗣️ - Boost Your Soft Skills with AI
 
-![image](https://github.com/user-attachments/assets/ad27a6e2-5c56-4f29-a6c3-18c1d75111b5)
+![Uploading ChatGPT Image Apr 11, 2025, 08_06_02 PM.png…]()
 
-## 📱 About SpeakUp
+## 📱 About LangApp
 
-SpeakUp is a cutting-edge Flutter application designed to enhance your soft skills through interactive learning. Focusing on vocabulary expansion, speaking fluency, and pronunciation accuracy, SpeakUp leverages the power of Gemini AI to create personalized learning experiences.
+LangApp is a cutting-edge Flutter application designed to enhance your soft skills through interactive learning. Focusing on vocabulary expansion, speaking fluency, and pronunciation accuracy, LangApp leverages the power of Gemini AI to create personalized learning experiences.
 
 ## ✨ Features
 
@@ -98,7 +98,7 @@ lib/
 
 ## 📊 Visualize Your Progress
 
-SpeakUp doesn't just help you learn—it helps you track your improvement with:
+LangApp doesn't just help you learn—it helps you track your improvement with:
 
 - **Heat Maps**: Visualize your daily activity patterns
 - **Custom Charts**: Track progress across different skill categories
