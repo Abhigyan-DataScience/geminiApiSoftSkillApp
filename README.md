@@ -1,6 +1,6 @@
 # LangApp 🗣️ - Boost Your Soft Skills with AI
 
-![alllApps](https://github.com/user-attachments/assets/a2bc81b8-bf72-4220-905c-e99e71e972b2)
+![alllApps](https://github.com/user-attachments/assets/4034e98d-0480-457f-b7c4-9fc89f5972fa)
 ![getstarted](https://github.com/user-attachments/assets/009009e9-28c1-46a7-b1d8-9d365d271fb3)
 ![ChatGPT Image Apr 12, 2025, 08_14_20 AM](https://github.com/user-attachments/assets/a0f6aae5-1c1c-49ed-8b46-26db815e3f9a)
 
