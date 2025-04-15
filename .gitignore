@@ -87,6 +87,7 @@ assets/.env
 # Firebase
 google-services.json
 GoogleService-Info.plist
+lib/firebase_options.dart
 
 # Coverage
 coverage/
